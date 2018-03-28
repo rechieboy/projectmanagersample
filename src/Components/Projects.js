@@ -6,7 +6,7 @@ class Projects extends Component {
     console.log(this.props);
     return (
       <div className="Projects">
-        My Projects
+        My Projects1
       </div>
     );
   }
